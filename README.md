@@ -12,12 +12,11 @@ Files provided:
 3. results
 
 
+OBJECTIVES:
+- How do the clients interact with the new product compared to the control version?
+- What is the impact of the new product?
 
 
 
-STEPS 
-The final aim of 
-The users/customers go on the website to register for the company’s services
-Data is available at your disposal. Understand the data, hypothesis tested, and the business objectives.
-Analyse the data and answer the business problems.
-![image](https://user-images.githubusercontent.com/65666003/168849003-6326bf8a-7c38-4cb6-8407-b1e2c4d89212.png)
+![image](https://user-images.githubusercontent.com/65666003/169363862-15c81adf-c888-4fc5-aa39-5a4fcc5cdc9f.png)
+
